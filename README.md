@@ -1,6 +1,6 @@
 # URL Shortener – Frontend Application
 
-This project is a browser-based URL shortener built using React and TypeScript. It allows users to shorten long URLs, optionally customize shortcodes, and define expiration times.
+This project is a browser-based URL shortener built using React. It allows users to shorten long URLs, optionally customize shortcodes, and define expiration times.
 ---
 
 ## Key Features
