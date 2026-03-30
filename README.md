@@ -65,7 +65,3 @@ On successful authentication, all logs are sent to logging server using the prov
 
    npm start
 
-3. Open in browser at:
-
-   http://localhost:3000
-
